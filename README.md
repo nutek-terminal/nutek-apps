@@ -18,7 +18,7 @@ Install with brew:
 # Install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 # Install all apps
-bash <(curl -s https://raw.githubusercontent.com/nutek/nutek-apps/master/brew_install_list.sh)
+bash <(curl -s https://raw.githubusercontent.com/nutek-terminal/nutek-apps/main/brew_install_list.sh)
 ```
 
 ## Trick for manpages
