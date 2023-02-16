@@ -1,3 +1,4 @@
+brew tap caffix/amass \
 brew install \
 bettercap \
 ettercap \
