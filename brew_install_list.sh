@@ -80,5 +80,4 @@ tcpdump \
 tcpflow \
 termshark \
 testssl \
-wfuzz \
 zmap 
