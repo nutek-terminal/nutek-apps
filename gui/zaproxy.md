@@ -4,9 +4,11 @@
 
 ZAP is an open source web application security scanner. It is designed to be used by people with a wide range of security experience and as such is ideal for developers and functional testers who are new to penetration testing.
 
-## Dowload
+## Install
 
-[https://www.zaproxy.org/download/](https://www.zaproxy.org/download/)
+```bash
+brew install owasp-zap
+```
 
 ## Usage
 
