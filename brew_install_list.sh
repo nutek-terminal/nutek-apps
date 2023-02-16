@@ -1,4 +1,4 @@
-brew tap caffix/amass \
+brew tap caffix/amass &&
 brew install \
 bettercap \
 ettercap \
