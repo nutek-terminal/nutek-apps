@@ -80,4 +80,5 @@ tcpdump \
 tcpflow \
 termshark \
 testssl \
-zmap 
+zmap \
+rustscan
