@@ -81,4 +81,5 @@ tcpflow \
 termshark \
 testssl \
 zmap \
-rustscan
+rustscan \
+nmap
