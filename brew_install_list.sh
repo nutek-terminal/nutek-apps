@@ -16,7 +16,6 @@ bvi \
 capstone \
 cflow \
 cppcheck \
-expat \
 fmt \
 gitleaks \
 grpc \

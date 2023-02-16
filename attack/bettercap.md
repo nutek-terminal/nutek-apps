@@ -9,6 +9,10 @@ Bettercap is a complete, modular, portable and easily extensible MITM framework 
 brew install bettercap
 ```
 
+==> Caveats
+bettercap requires root privileges so you will need to run `sudo bettercap`.
+You should be certain that you trust any software you grant root privileges.
+
 ## sample usage
 
 ```
